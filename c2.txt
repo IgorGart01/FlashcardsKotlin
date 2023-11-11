@@ -1,0 +1,4 @@
+francia:Paris=5
+England:London=3
+Russia:Moscow=0
+kuba:www=1
